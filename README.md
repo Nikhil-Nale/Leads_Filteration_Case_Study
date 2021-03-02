@@ -1,1 +1,1 @@
-# Leads_Filteration_Case_Study
+# Leads_Filteration_LogisticRegression_Case_Study
